@@ -1,0 +1,12 @@
+{
+  "enabled": false,
+  "stats": {
+    "cycles": 0,
+    "planted": 0,
+    "boneMeal": 0,
+    "chopped": 0,
+    "movementFailures": 0,
+    "errors": 0,
+    "reconnects": 0
+  }
+}
