@@ -1,0 +1,20 @@
+{
+  "name": "tree-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Single-account Mineflayer tree farming bot with health endpoint and reconnect handling.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "selftest": "TREEBOT_SELFTEST=1 node main.js",
+    "check": "node --check main.js"
+  },
+  "engines": {
+    "node": ">=20 <23"
+  },
+  "dependencies": {
+    "mineflayer": "^4.39.0",
+    "mineflayer-pathfinder": "^2.4.5",
+    "vec3": "^0.2.0"
+  }
+}
