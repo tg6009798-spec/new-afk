@@ -1,9 +1,9 @@
 {
-  "name": "tree-bot-hardened",
+  "name": ""index",
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "start": "node tree_bot_hardened.js"
+    "start": ""node index.js""
   },
   "dependencies": {
     "mineflayer": "^4.39.0",
