@@ -1,9 +1,9 @@
 {
-  "name": ""index",
+  "name": "index",
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "start": ""node index.js""
+    "start": "node index.js"
   },
   "dependencies": {
     "mineflayer": "^4.39.0",
