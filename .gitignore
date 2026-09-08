@@ -1,0 +1,5 @@
+node_modules/
+.env
+npm-debug.log*
+tree_bot_state.json
+*.log
